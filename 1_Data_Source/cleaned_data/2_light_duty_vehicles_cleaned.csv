@@ -1,0 +1,411 @@
+Vehicle ID,Model,Model Year,Manufacturer,Fuel,Electric-Only Range,Charging Rate DC Fast (kW),Battery Capacity kWh
+13830,Q4 45 e-tron,2025,Audi,Electric,288,150,81.6
+13972,Q4 55 e-tron quattro,2025,Audi,Electric,258,150,81.6
+13973,Q6 e-tron,2025,Audi,Electric,298,50,100.2
+13831,Q6 e-tron quattro,2025,Audi,Electric,295,50,100
+13832,Q8 e-tron quattro,2025,Audi,Electric,254,170,114.3
+13974,S e-tron GT,2025,Audi,Electric,294,50,105
+13834,SQ6 e-tron,2025,Audi,Electric,275,50,100
+13835,SQ8 e-tron,2025,Audi,Electric,208,50,114.3
+13837,i4 eDrive35 Gran Coupe,2025,BMW,Electric,244,195,84.2
+13838,i4 eDrive40 Gran Coupe,2025,BMW,Electric,295,195,84.2
+13840,i4 M50 Gran Coupe,2025,BMW,Electric,227,196,105.7
+13839,i4 xDrive40 Gran Coupe,2025,BMW,Electric,268,195,105.7
+13841,i5 eDrive40 Sedan,2025,BMW,Electric,271,195,84
+13842,i5 M60 xDrive Sedan,2025,BMW,Electric,239,195,105.6
+13843,i5 xDrive40 Sedan,2025,BMW,Electric,248,195,105.6
+13844,i7 eDrive50 Sedan,2025,BMW,Electric,301,195,105.6
+13845,i7 M70 xDrive Sedan,2025,BMW,Electric,268,195,111.8
+13846,i7 xDrive60 Sedan,2025,BMW,Electric,296,195,105.6
+13847,iX M60,2025,BMW,Electric,284,195,111.8
+13848,iX xDrive40,2025,BMW,Electric,211,195,111.8
+13849,iX xDrive50,2025,BMW,Electric,302,195,111.8
+13850,Nevera,2025,Bugatti Rimac,Electric,204,50,153.6
+13975,Lyric,2025,Cadillac,Electric,326,190,116
+13976,Lyric AWD,2025,Cadillac,Electric,303,190,116.9
+13851,Blazer EV AWD,2025,Chevrolet,Electric,283,150,97.4
+13977,Blazer EV RWD,2025,Chevrolet,Electric,334,150,116
+13979,Equinox EV AWD,2025,Chevrolet,Electric,307,50,97.4
+13978,Equinox EV FWD,2025,Chevrolet,Electric,319,50,97.4
+13980,Silverado EV,2025,Chevrolet,Electric,390,350,136.3
+13981,500e,2025,Fiat,Electric,141,85,42.2
+13982,F150 Lightning 4WD Pro/ER1/Platinum,2025,Ford,Electric,300,150,165.2
+13983,F150 Lightning 4WD SR,2025,Ford,Electric,240,150,124
+13853,Electrified G80,2025,Genesis,Electric,282,230,87.2
+13852,Electrified GV70,2025,Genesis,Electric,236,230,77.4
+13855,GV60 Advanced/Performance,2025,Genesis,Electric,235,230,77.5
+13854,GV60 RWD,2025,Genesis,Electric,294,230,77.5
+13856,Hummer EV Pickup,2025,GMC,Electric,312,300,194.9
+13857,Hummer EV Pickup,2025,GMC,Electric,289,300,194.9
+13859,Hummer EV SUV,2025,GMC,Electric,289,300,194.9
+13858,Hummer EV SUV,2025,GMC,Electric,282,300,194.9
+13984,Sierra EV,2025,GMC,Electric,390,350,136.3
+13987,Ioniq 5 AWD,2025,Hyundai,Electric,259,199,84.1
+13860,Ioniq 5 N,2025,Hyundai,Electric,221,199,84.1
+13985,Ioniq 5 RWD,2025,Hyundai,Electric,318,199,84.1
+13986,Ioniq 5 Standard Range,2025,Hyundai,Electric,245,199,63.1
+13861,Ioniq 6 AWD,2025,Hyundai,Electric,270,221,77.4
+13862,Ioniq 6 RWD,2025,Hyundai,Electric,291,221,77.4
+13863,Ioniq 6 Standard Range,2025,Hyundai,Electric,240,221,53.3
+13864,Kona Electric,2025,Hyundai,Electric,230,100,64.8
+13865,Kona Electric Standard Range,2025,Hyundai,Electric,200,100,48.5
+13868,EV9 Long Range AWD,2025,Kia,Electric,270,200,99.9
+13867,EV9 Long Range RWD,2025,Kia,Electric,304,200,99.9
+13866,EV9 Standard Range RWD,2025,Kia,Electric,230,200,76.2
+13869,Niro Electric,2025,Kia,Electric,253,75,64.8
+13870,Air G Touring XR AWD,2025,Lucid,Electric,446,300,136.8
+13871,Air Pure RWD,2025,Lucid,Electric,372,300,84.1
+13872,Air Sapphire AWD,2025,Lucid,Electric,427,300,116.8
+13873,Air Touring AWD,2025,Lucid,Electric,361,300,116.8
+13988,Grancabrio/Granturismo Folgore,2025,Maserati,Electric,229,50,90.4
+13874,Grecale Folgore,2025,Maserati,Electric,206,50,57.6
+13875,AMG EQE 4MATIC+,2025,Mercedes-Benz,Electric,220,170,95.8
+13876,AMG EQE 4MATIC+ (SUV),2025,Mercedes-Benz,Electric,230,170,95.8
+13877,AMG EQS 4MATIC+,2025,Mercedes-Benz,Electric,315,200,122
+13878,EQE 350+,2025,Mercedes-Benz,Electric,308,170,95.7
+13880,EQE 350 4MATIC,2025,Mercedes-Benz,Electric,267,170,95.8
+13881,EQE 350 4MATIC (SUV),2025,Mercedes-Benz,Electric,253,170,95.8
+13879,EQE 350+ (SUV),2025,Mercedes-Benz,Electric,302,170,101.6
+13882,EQE 500 4MATIC,2025,Mercedes-Benz,Electric,266,170,95.8
+13883,EQE 500 4MATIC (SUV),2025,Mercedes-Benz,Electric,264,170,95.8
+13886,EQS 450+,2025,Mercedes-Benz,Electric,323,200,122
+13884,EQS 450 4MATIC,2025,Mercedes-Benz,Electric,367,200,122
+13885,EQS 450/580 4MATIC (SUV),2025,Mercedes-Benz,Electric,312,200,122
+13887,EQS 450+ (SUV),2025,Mercedes-Benz,Electric,323,200,122
+13888,EQS 580 4MATIC,2025,Mercedes-Benz,Electric,371,200,122
+13889,EQS 680 4MATIC Maybach (SUV),2025,Mercedes-Benz,Electric,302,200,122
+13989,G 580 with EQ Technology,2025,Mercedes-Benz,Electric,239,50,122
+13890,Countryman SE ALL4,2025,Mini,Electric,204,130,66.4
+13990,ARIYA e-4ORCE 63kWh,2025,Nissan,Electric,205,130,65.8
+13991,ARIYA ENGAGE+/EVOLVE+/PLATINUM+ e-4ORCE 87kWh,2025,Nissan,Electric,257,130,90.8
+13992,ARIYA EVOLVE+ FWD 87kWh,2025,Nissan,Electric,289,130,90.8
+13993,ARIYA FWD 63kWh,2025,Nissan,Electric,216,130,65.8
+13891,LEAF,2025,Nissan,Electric,149,70,40.3
+13892,LEAF,2025,Nissan,Electric,212,70,60.6
+13893,2 Dual Motor,2025,Polestar,Electric,254,155,81.6
+13894,2 Single Motor,2025,Polestar,Electric,300,155,81.6
+13895,3 Long Range Dual Motor,2025,Polestar,Electric,279,250,111
+13994,3 Long Range Single Motor,2025,Polestar,Electric,333,250,111
+13897,4 Long Range Dual Motor,2025,Polestar,Electric,272,50,100.1
+13896,4 Long Range Single Motor,2025,Polestar,Electric,300,50,100.1
+13995,Macan 4/4S/Turbo Electric,2025,Porsche,Electric,288,270,140.1
+13898,Taycan 4/4S,2025,Porsche,Electric,252,270,109.7
+13899,Taycan Perf Battery/Battery Plus,2025,Porsche,Electric,274,270,122.4
+13996,Taycan Turbo/Turbo S,2025,Porsche,Electric,261,270,109.7
+13900,R1S Dual,2025,Rivian ,Electric,292,210,149.7
+13997,R1S Dual Large,2025,Rivian ,Electric,289,210,116.1
+13901,R1S Dual Standard,2025,Rivian ,Electric,258,210,94.7
+13998,R1S Tri Max,2025,Rivian ,Electric,329,210,149.7
+13902,R1T Dual,2025,Rivian ,Electric,292,210,149.7
+13999,R1T Dual Large,2025,Rivian ,Electric,289,210,116.1
+13903,R1T Dual Standard,2025,Rivian ,Electric,258,210,94.7
+14000,R1T Tri Max,2025,Rivian ,Electric,329,210,149.7
+13904,Black Badge Spectre,2025,Rolls-Royce,Electric,251,50,105.6
+13905,Spectre,2025,Rolls-Royce,Electric,253,50,105.6
+13906,ID. Buzz,2025,Volkswagen,Electric,234,50,91.7
+13907,ID. Buzz 4Motion,2025,Volkswagen,Electric,231,50,91.7
+13909,EC40/EX40,2025,Volvo,Electric,296,149,81.6
+13908,EC40/EX40 Twin,2025,Volvo,Electric,260,149,81.6
+13910,EX30 Single Motor extended range,2025,Volvo,Electric,257,50,66.2
+13644,ZDX AWD,2024,Acura,Electric,278,190,119.2
+13645,ZDX RWD,2024,Acura,Electric,313,190,119.2
+13421,e-tron GT/RS e-tron GT,2024,Audi,Electric,249,270,93
+13422,Q4 40 e-tron,2024,Audi,Electric,265,125,82
+13423,Q4 50 e-tron quattro,2024,Audi,Electric,236,125,82
+13646,Q4 55 e-tron quattro,2024,Audi,Electric,258,125,82.4
+13425,Q8 e-tron quattro,2024,Audi,Electric,285,125,114
+13535,Q8 Sportback e-tron quattro,2024,Audi,Electric,296,170,114
+13426,Q8 Sportback e-tron ultra quattro,2024,Audi,Electric,300,125,114
+13536,SQ8 e-tron/Sportback e-tron,2024,Audi,Electric,218,50,114
+13427,i4 eDrive35 Gran Coupe,2024,BMW,Electric,252,195,84
+13428,i4 eDrive40 Gran Coupe,2024,BMW,Electric,283,195,84
+13430,i4 M50 Gran Coupe,2024,BMW,Electric,227,196,105
+13429,i4 xDrive40 Gran Coupe,2024,BMW,Electric,279,195,105
+13431,i5 eDrive40 Sedan,2024,BMW,Electric,270,50,84
+13432,i5 M60 xDrive Sedan,2024,BMW,Electric,240,50,84
+13433,i7 eDrive50 Sedan,2024,BMW,Electric,301,195,105
+13434,i7 M70 xDrive Sedan,2024,BMW,Electric,274,195,111
+13435,i7 xDrive60 Sedan,2024,BMW,Electric,298,195,105
+13436,iX M60,2024,BMW,Electric,296,195,111
+13437,iX xDrive40,2024,BMW,Electric,217,195,111
+13438,iX xDrive50,2024,BMW,Electric,307,195,111
+13700,Nevera,2024,Bugatti Rimac,Electric,204,50,153.6
+13439,Lyric,2024,Cadillac,Electric,314,190,119
+13647,Lyric AWD,2024,Cadillac,Electric,307,190,119.2
+13537,Blazer EV AWD,2024,Chevrolet,Electric,279,150,99
+13648,Blazer EV RWD,2024,Chevrolet,Electric,324,150,119.2
+13650,Equinox EV AWD,2024,Chevrolet,Electric,285,50,99.8
+13649,Equinox EV FWD,2024,Chevrolet,Electric,319,50,99.8
+13538,Silverado EV,2024,Chevrolet,Electric,393,50,168
+13440,Silverado EV,2024,Chevrolet,Electric,450,50,208
+13965,Charger 2-Dr Daytona,2024,Dodge,Electric,,50,115.8
+13651,500e,2024,Fiat,Electric,141,50,42.2
+13701,Ocean Sport,2024,Fisker Automotive,Electric,194,50,75.3
+13652,F150 Lightning 4WD,2024,Ford,Electric,240,150,124
+13653,F150 Lightning 4WD Plat/Ext. Range,2024,Ford,Electric,300,150,165.2
+13656,Mustang Mach-E AWD,2024,Ford,Electric,230,115,91.4
+13657,Mustang Mach-E AWD Extended,2024,Ford,Electric,300,115,116.4
+13655,Mustang Mach-E GT/Rally,2024,Ford,Electric,265,115,116.4
+13654,Mustang Mach-E RWD,2024,Ford,Electric,250,115,116.4
+13441,Electrified G70,2024,Genesis,Electric,236,230,77
+13539,Electrified G80,2024,Genesis,Electric,282,230,87
+13442,GV60 Advanced/Performance,2024,Genesis,Electric,248,230,77
+13540,GV60 Standard,2024,Genesis,Electric,294,230,77
+13443,Hummer EV Pickup,2024,GMC,Electric,279,50,199.1
+13444,Hummer EV SUV,2024,GMC,Electric,279,50,199.1
+13659,Prologue AWD Elite/Touring,2024,Honda,Electric,273,50,100.1
+13658,Prologue FWD,2024,Honda,Electric,296,50,100.1
+13447,Ioniq 5 Long range AWD,2024,Hyundai,Electric,260,199,77
+13446,Ioniq 5 Long range RWD,2024,Hyundai,Electric,303,199,77
+13445,Ioniq 5 Standard range RWD,2024,Hyundai,Electric,220,199,58
+13448,Ioniq 6 Long range AWD,2024,Hyundai,Electric,270,50,77
+13449,Ioniq 6 Long range RWD,2024,Hyundai,Electric,305,50,77
+13450,Ioniq 6 Standard range RWD,2024,Hyundai,Electric,240,50,53
+13541,Kona Electric,2024,Hyundai,Electric,200,100,48
+13451,I-PACE EV400,2024,Jaguar,Electric,217,100,86
+13966,Wagoneer S AWD,2024,Jeep,Electric,270,50,115.8
+13455,EV6 AWD GT,2024,Kia,Electric,218,200,77
+13454,EV6 Long Range AWD,2024,Kia,Electric,252,200,77
+13453,EV6 Long Range RWD,2024,Kia,Electric,310,200,77
+13452,EV6 Standard Range RWD,2024,Kia,Electric,232,200,77
+13544,EV9 Long Range AWD,2024,Kia,Electric,270,50,99
+13542,EV9 Long Range RWD,2024,Kia,Electric,304,50,99
+13543,EV9 Standard Range RWD,2024,Kia,Electric,230,50,76
+13456,Niro Electric,2024,Kia,Electric,253,75,64
+13660,RZ 300e,2024,Lexus,Electric,224,50,72.8
+13661,RZ 450e,2024,Lexus,Electric,196,100,71.4
+13662,Air G Touring XR AWD,2024,Lucid,Electric,450,300,136.8
+13545,Air Pure RWD,2024,Lucid,Electric,394,300,86
+13546,Air Sapphire AWD,2024,Lucid,Electric,427,300,120
+13663,Air Touring AWD,2024,Lucid,Electric,365,300,136.8
+13664,Grancabrio/Granturismo Folgore,2024,Maserati,Electric,233,50,45.6
+13547,AMG EQE 4MATIC+,2024,Mercedes-Benz,Electric,230,170,95
+13665,AMG EQE 4MATIC+,2024,Mercedes-Benz,Electric,230,170,95.8
+13457,AMG EQE 4MATIC+ (SUV),2024,Mercedes-Benz,Electric,235,170,95
+13666,AMG EQE 4MATIC+ (SUV),2024,Mercedes-Benz,Electric,235,170,95.8
+13548,AMG EQS 4MATIC+,2024,Mercedes-Benz,Electric,305,200,111
+13667,EQB 250+,2024,Mercedes-Benz,Electric,251,100,72.2
+13702,EQB 300 4MATIC,2024,Mercedes-Benz,Electric,205,100,72.2
+13668,EQB 350 4MATIC,2024,Mercedes-Benz,Electric,207,100,72.2
+13549,EQE 350+,2024,Mercedes-Benz,Electric,298,170,95
+13550,EQE 350 4MATIC,2024,Mercedes-Benz,Electric,280,170,95
+13670,EQE 350 4MATIC (SUV),2024,Mercedes-Benz,Electric,265,171,88.9
+13669,EQE 350+ (SUV),2024,Mercedes-Benz,Electric,307,171,101.6
+13551,EQE 500 4MATIC,2024,Mercedes-Benz,Electric,298,170,88
+13671,EQE 500 4MATIC (SUV),2024,Mercedes-Benz,Electric,282,171,95.7
+13553,EQS 450+,2024,Mercedes-Benz,Electric,352,200,111
+13552,EQS 450 4MATIC,2024,Mercedes-Benz,Electric,345,200,107
+13672,EQS 450/580 4MATIC (SUV),2024,Mercedes-Benz,Electric,330,200,122
+13673,EQS 450+ (SUV),2024,Mercedes-Benz,Electric,339,200,122
+13554,EQS 580 4MATIC,2024,Mercedes-Benz,Electric,345,200,107
+13555,EQS 680 4MATIC Maybach (SUV),2024,Mercedes-Benz,Electric,280,200,111
+13674,EQS 680 4MATIC Maybach (SUV),2024,Mercedes-Benz,Electric,321,200,122
+13458,Cooper SE Hardtop 2 door,2024,Mini,Electric,114,50,32
+13676,ARIYA ENGAGE e-4ORCE 63kWh,2024,Nissan,Electric,205,130,65.8
+13677,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,2024,Nissan,Electric,272,130,90.8
+13675,ARIYA ENGAGE FWD 63kWh,2024,Nissan,Electric,216,130,65.8
+13678,ARIYA EVOLVE+/EMPOWER+/VENTURE+ FWD 87kWh,2024,Nissan,Electric,289,130,90.8
+13679,ARIYA PLATINUM+ e-4ORCE 87kWh,2024,Nissan,Electric,257,130,90.8
+13459,LEAF,2024,Nissan,Electric,149,70,40
+13460,LEAF SV,2024,Nissan,Electric,212,70,60
+13461,Polestar 2 Dual Motor,2024,Polestar,Electric,266,150,77
+13462,Polestar 2 Dual Motor Performance Pack,2024,Polestar,Electric,247,150,77
+13463,Polestar 2 Single Motor,2024,Polestar,Electric,307,150,81
+13967,Macan  Electric,2024,Porsche,Electric,288,270,140.1
+13680,Taycan 4S Cross Turismo,2024,Porsche,Electric,230,270,109.7
+13557,Taycan 4S Perf Battery/Plus,2024,Porsche,Electric,206,270,109
+13560,Taycan Cross Turismo,2024,Porsche,Electric,222,270,109
+13556,Taycan GTS Sport Turismo,2024,Porsche,Electric,233,270,109
+13559,Taycan Perf Battery/Plus,2024,Porsche,Electric,208,270,109
+13558,Taycan Turbo/Turbo S,2024,Porsche,Electric,222,270,109
+13561,R1S All-Terrain Quad Large (20in),2024,Rivian ,Electric,274,209,144
+13681,R1S Dual,2024,Rivian ,Electric,255,209,144
+13682,R1S Dual Max,2024,Rivian ,Electric,355,209,149.7
+13683,R1S Quad Large,2024,Rivian ,Electric,289,209,144
+13684,R1T Dual,2024,Rivian ,Electric,255,210,144
+13685,R1T Dual Max,2024,Rivian ,Electric,355,210,149.7
+13686,R1T Quad Large,2024,Rivian ,Electric,274,210,144
+13562,Black Badge Spectre,2024,Rolls-Royce,Electric,264,50,105
+13563,Spectre,2024,Rolls-Royce,Electric,266,50,105
+13564,Solterra,2024,Subaru,Electric,222,100,72
+13690,Model 3 Long Range AWD,2024,Tesla,Electric,303,250,81.4
+13703,Model 3 Long Range AWD-E,2024,Tesla,Electric,341,250,81.4
+13689,Model 3 RWD,2024,Tesla,Electric,272,250,60.2
+13687,Model S ,2024,Tesla,Electric,402,250,104.4
+13688,Model S Plaid,2024,Tesla,Electric,320,250,105
+13691,Model X,2024,Tesla,Electric,300,250,105
+13704,Model Y Long Range AWD-I,2024,Tesla,Electric,308,250,83.4
+13692,Model Y Performance/Long Range AWD,2024,Tesla,Electric,279,250,83.4
+13705,Model Y RWD,2024,Tesla,Electric,260,250,66.5
+13693,bZ4X,2024,Toyota,Electric,236,150,71.4
+13694,bZ4X AWD,2024,Toyota,Electric,222,100,72.8
+13565,VF 9 Eco/Plus,2024,VinFast,Electric,291,50,93
+13567,ID.4 AWD Pro/Pro S,2024,Volkswagen,Electric,263,170,81
+13566,ID.4/S/Pro S,2024,Volkswagen,Electric,206,170,81
+13464,C40/XC40 Recharge,2024,Volvo,Electric,293,149,77
+13465,C40/XC40 Recharge Twin,2024,Volvo,Electric,254,149,77
+13221,e-tron GT/RS e-tron GT,2023,Audi,Electric,232,270,95
+13219,e-tron quattro/S,2023,Audi,Electric,181,150,95
+13220,e-tron Sportback/S Sportback,2023,Audi,Electric,185,150,95
+13222,Q4 e-tron,2023,Audi,Electric,265,125,82
+13223,Q4 e-tron quattro,2023,Audi,Electric,236,125,95
+13224,Q4 e-tron Sportback,2023,Audi,Electric,242,125,82
+13225,i4 eDrive35/40 Gran Coupe,2023,BMW,Electric,235,195,84
+13226,i4 M50 Gran Coupe,2023,BMW,Electric,227,196,83
+13227,i7 xDrive60 Sedan,2023,BMW,Electric,296,50,105
+13108,iX M60,2023,BMW,Electric,274,195,111
+13228,iX xDrive50,2023,BMW,Electric,305,195,76
+13109,Lyric,2023,Cadillac,Electric,312,190,119
+13339,Lyric AWD,2023,Cadillac,Electric,307,190,119
+13111,Bolt EUV,2023,Chevrolet,Electric,247,50,75
+13110,Bolt EV,2023,Chevrolet,Electric,259,50,75
+13390,"Ocean Extreme, One",2023,Fisker Automotive,Electric,360,50,113
+13330,F150 Lightning 4WD,2023,Ford,Electric,240,150,123
+13317,F150 Lightning 4WD Plat/Ext. Range,2023,Ford,Electric,300,150,165
+13334,Mustang Mach-E AWD,2023,Ford,Electric,224,115,116
+13335,Mustang Mach-E AWD CAL RT 1/EXT,2023,Ford,Electric,290,115,116
+13333,Mustang Mach-E GT,2023,Ford,Electric,260,115,116
+13391,Mustang Mach-E RWD Extended,2023,Ford,Electric,310,115,116
+13332,Mustang Mach-E RWD (incl. LFP),2023,Ford,Electric,247,115,91
+13229,Electrified G80,2023,Genesis,Electric,282,50,87
+13112,GV60 Advance,2023,Genesis,Electric,248,50,77
+13113,GV60 Performance,2023,Genesis,Electric,235,50,77
+13342,Ioniq 6 Long range AWD,2023,Hyundai,Electric,270,50,77
+13340,Ioniq 6 Long range RWD,2023,Hyundai,Electric,305,50,77
+13341,Ioniq 6 Standard range RWD,2023,Hyundai,Electric,240,50,53
+13230,Kona Electric,2023,Hyundai,Electric,258,75,64
+13231,I-PACE EV400,2023,Jaguar,Electric,217,100,86
+13234,EV6 AWD GT,2023,Kia,Electric,206,200,77
+13233,EV6 Long Range AWD,2023,Kia,Electric,252,200,77
+13232,EV6 Standard/Long Range RWD,2023,Kia,Electric,232,200,77
+13235,Niro Electric,2023,Kia,Electric,253,75,64
+13392,"RZ 450e AWD (18""/20"" Wheels)",2023,Lexus,Electric,196,100,71
+13336,Endurance,2023,Lordstown,Electric,174,50,109
+13307,Air G Touring XR AWD,2023,Lucid,Electric,469,300,120
+13308,Air GT P AWD,2023,Lucid,Electric,446,300,120
+13309,Air Pure AWD,2023,Lucid,Electric,384,300,120
+13310,Air Touring AWD,2023,Lucid,Electric,384,300,120
+13393,MX-30,2023,Mazda,Electric,100,50,35
+13236,EQS 450 4MATIC,2023,Mercedes-Benz,Electric,340,200,111
+13237,EQS 450 4MATIC (SUV),2023,Mercedes-Benz,Electric,285,200,111
+13238,EQS 450+ (SUV),2023,Mercedes-Benz,Electric,305,200,111
+13239,EQS 580 4MATIC (SUV),2023,Mercedes-Benz,Electric,285,200,111
+13114,Cooper SE Hardtop 2 door,2023,Mini,Electric,114,50,32
+13394,ARIYA ENGAGE e-4ORCE 63kWh,2023,Nissan,Electric,205,130,65
+13240,ARIYA ENGAGE FWD 63kWh,2023,Nissan,Electric,216,50,65
+13395,ARIYA ENG+/EVO+/PLAT+ e-4ORCE 87kWh,2023,Nissan,Electric,257,130,90
+13241,ARIYA FWD 87kWh,2023,Nissan,Electric,289,50,90
+13242,LEAF,2023,Nissan,Electric,149,70,40
+13243,LEAF SV,2023,Nissan,Electric,212,70,60
+13116,Polestar 2,2023,Polestar,Electric,270,150,77
+13115,Polestar 2 Dual Motor,2023,Polestar,Electric,247,150,77
+13245,Taycan AWD,2023,Porsche,Electric,206,270,109
+13247,Taycan Cross Turismo,2023,Porsche,Electric,222,270,109
+13244,Taycan GTS Sport Turismo,2023,Porsche,Electric,233,270,109
+13246,Taycan Perf Battery/Battery Plus,2023,Porsche,Electric,208,270,109
+13319,R1S,2023,Rivian ,Electric,274,209,144
+13396,R1S Dual Motor,2023,Rivian ,Electric,307,209,144
+13318,R1T,2023,Rivian ,Electric,289,210,144
+13397,R1T Dual Motor,2023,Rivian ,Electric,341,210,144
+13248,Solterra AWD,2023,Subaru,Electric,222,50,72
+13276,Model 3 AWD,2023,Tesla,Electric,315,250,84
+13275,Model 3 RWD,2023,Tesla,Electric,272,250,60.9
+13274,Model S ,2023,Tesla,Electric,405,250,104
+13277,Model X,2023,Tesla,Electric,311,250,104
+13278,Model Y AWD,2023,Tesla,Electric,279,250,84
+13117,bZ4X,2023,Toyota,Electric,242,150,71
+13118,bZ4X AWD,2023,Toyota,Electric,222,100,72
+13337,VF 8 Eco/Plus,2023,VinFast,Electric,191,50,88
+13250,ID.4 AWD Pro/Pro S,2023,Volkswagen,Electric,255,125,81
+13249,ID.4 S/Pro/Pro S,2023,Volkswagen,Electric,209,125,81
+13119,C40 Recharge Twin,2023,Volvo,Electric,226,149,77
+13120,XC40 Recharge Twin,2023,Volvo,Electric,223,150,77
+12949,e-tron GT,2022,Audi,Electric,238,50,
+13002,e-tron quattro,2022,Audi,Electric,222,50,
+12950,"e-tron S (20"" wheels)",2022,Audi,Electric,208,50,
+12951,"e-tron S (21"" or 22"" wheels)",2022,Audi,Electric,181,50,
+13001,e-tron Sportback quattro,2022,Audi,Electric,218,50,
+12952,"e-tron S Sportback (20"" wheels)",2022,Audi,Electric,212,50,
+12953,"e-tron S Sportback (21"" or 22"" wheels)",2022,Audi,Electric,185,50,
+12954,Q4 e-tron quattro,2022,Audi,Electric,241,50,
+12955,Q4 e-tron Sportback quattro,2022,Audi,Electric,241,50,
+12956,RS e-tron GT,2022,Audi,Electric,241,50,
+13047,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022,BMW,Electric,301,50,
+13046,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,282,50,
+13048,"i4 M50 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,270,50,
+13049,"i4 M50 Gran Coupe (20"" Wheels) ",2022,BMW,Electric,227,50,
+13050,"iX xDrive50 (20"" Wheels) ",2022,BMW,Electric,324,50,
+13051,"iX xDrive50 (21"" Wheels) ",2022,BMW,Electric,305,50,
+13052,"iX xDrive50 (22"" Wheels) ",2022,BMW,Electric,315,50,
+12778,Bolt EUV,2022,Chevrolet,Electric,247,50,
+12777,Bolt EV,2022,Chevrolet,Electric,259,50,
+13093,F150 Lightning 4WD,2022,Ford,Electric,230,50,
+13094,F150 Lightning 4WD Extended Range,2022,Ford,Electric,320,50,
+13095,F150 Lightning Platinum 4WD,2022,Ford,Electric,300,50,
+13059,Mustang Mach-E AWD,2022,Ford,Electric,224,50,
+13056,Mustang Mach-E AWD California Route 1,2022,Ford,Electric,312,50,
+13060,Mustang Mach-E AWD Extended,2022,Ford,Electric,277,50,
+13057,Mustang Mach-E GT AWD,2022,Ford,Electric,270,50,
+13058,Mustang Mach-E GT Performance,2022,Ford,Electric,260,50,
+13053,Mustang Mach-E RWD,2022,Ford,Electric,247,50,
+13055,Mustang Mach-E RWD California Route 1,2022,Ford,Electric,314,50,
+13054,Mustang Mach-E RWD Extended,2022,Ford,Electric,303,50,
+13005,Ioniq 5 AWD (Long Range),2022,Hyundai,Electric,256,50,
+13003,Ioniq 5 RWD,2022,Hyundai,Electric,220,50,
+13004,Ioniq 5 RWD (Long Range),2022,Hyundai,Electric,303,50,
+12879,Kona Electric,2022,Hyundai,Electric,258,50,
+13008,EV6 AWD (Long Range) ,2022,Kia,Electric,274,50,
+13006,EV6 RWD,2022,Kia,Electric,232,50,
+13007,EV6 RWD (Long Range) ,2022,Kia,Electric,310,50,
+12880,Niro Electric,2022,Kia,Electric,239,50,
+12894,"Air Dream P AWD w/19"" wheels",2022,Lucid,Electric,471,50,
+12895,"Air Dream P AWD w/21"" wheels",2022,Lucid,Electric,451,50,
+12896,"Air Dream R AWD w/19"" wheels",2022,Lucid,Electric,520,50,
+12897,"Air Dream R AWD w/21"" wheels",2022,Lucid,Electric,481,50,
+12898,"Air G Touring AWD w/19"" wheels",2022,Lucid,Electric,516,50,
+12899,"Air G Touring AWD w/21"" wheels",2022,Lucid,Electric,469,50,
+12957,MX-30,2022,Mazda,Electric,100,50,
+13311,AMG EQS 4MATIC+,2022,Mercedes-Benz,Electric,277,200,111
+13312,EQB 300 4MATIC,2022,Mercedes-Benz,Electric,243,50,73
+13313,EQB 350 4MATIC,2022,Mercedes-Benz,Electric,227,50,73
+12958,EQS450+,2022,Mercedes-Benz,Electric,350,50,
+12959,EQS 580 4MATIC,2022,Mercedes-Benz,Electric,340,50,
+12779,Cooper SE Hardtop 2 door,2022,Mini,Electric,114,50,
+12881,Leaf (40 kWh battery pack),2022,Nissan,Electric,149,50,
+12882,Leaf (62 kWh battery pack),2022,Nissan,Electric,226,50,
+12883,Leaf SV/SL (62 kWh battery pack),2022,Nissan,Electric,215,50,
+12884,Polestar 2 (Dual Motor),2022,Polestar,Electric,249,50,
+13009,Polestar 2 (Single Motor),2022,Polestar,Electric,270,50,
+12966,Taycan 4 Cross Turismo,2022,Porsche,Electric,215,50,
+12967,Taycan 4S Cross Turismo,2022,Porsche,Electric,215,50,
+12960,Taycan 4S Perf Battery,2022,Porsche,Electric,199,50,
+12961,Taycan 4S Perf Battery Plus,2022,Porsche,Electric,227,50,
+13106,Taycan GTS,2022,Porsche,Electric,246,50,
+13107,Taycan GTS ST,2022,Porsche,Electric,233,50,
+12964,Taycan Perf Battery,2022,Porsche,Electric,200,50,
+12965,Taycan Perf Battery Plus,2022,Porsche,Electric,225,50,
+12962,Taycan Turbo,2022,Porsche,Electric,212,50,
+12968,Taycan Turbo Cross Turismo,2022,Porsche,Electric,204,50,
+12963,Taycan Turbo S,2022,Porsche,Electric,201,50,
+12969,Taycan Turbo S Cross Turismo,2022,Porsche,Electric,202,50,
+12970,R1S,2022,Rivian ,Electric,316,50,
+12971,R1T,2022,Rivian ,Electric,314,50,
+13014,Model 3 (Long Range) AWD,2022,Tesla,Electric,353,50,
+13015,Model 3 Performance AWD,2022,Tesla,Electric,315,50,
+13013,Model 3 RWD,2022,Tesla,Electric,272,50,
+13010,Model S ,2022,Tesla,Electric,405,50,
+13012,"Model S Plaid (19"" Wheels)",2022,Tesla,Electric,396,50,
+13011,"Model S Plaid (21"" Wheels)",2022,Tesla,Electric,348,50,
+13019,Model X AWD,2022,Tesla,Electric,348,50,
+13020,"Model X Plaid (20"" Wheels)",2022,Tesla,Electric,333,50,
+13021,"Model X Plaid (22"" Wheels)",2022,Tesla,Electric,311,50,
+13075,Model Y AWD,2022,Tesla,Electric,279,50,
+13017,Model Y (Long Range) AWD,2022,Tesla,Electric,330,50,
+13016,Model Y Performance AWD,2022,Tesla,Electric,303,50,
+13018,Model Y RWD,2022,Tesla,Electric,244,50,
+13096,ID.4 AWD Pro,2022,Volkswagen,Electric,251,50,
+13097,ID.4 AWD Pro S,2022,Volkswagen,Electric,245,50,
+13098,ID.4 Pro,2022,Volkswagen,Electric,275,50,
+13099,ID.4 Pro S,2022,Volkswagen,Electric,262,50,
+13022,C40 Recharge Twin,2022,Volvo,Electric,226,50,
+12885,XC40 Recharge Twin,2022,Volvo,Electric,223,50,
