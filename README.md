@@ -101,7 +101,7 @@ Big batteries + slow chargers = infrastructure stress = investment opportunity
 
 - dim_vehicles → EV demand
 
-- Key SQL outputs:
+**Key SQL outputs:**
 
 - City-level charging power
 
@@ -133,7 +133,7 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 - Scores clipped to avoid outliers
 
-- Cities classified into:
+**Cities classified into:**
 
 - Critical Opportunity
 
@@ -213,3 +213,4 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 ## ✅ Conclusion
 
 This project demonstrates how data analytics can identify real-world infrastructure gaps by combining supply, demand, and business logic. It showcases a complete analytics pipeline that turns raw data into actionable investment insights.
+
