@@ -210,9 +210,12 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 ---
 
-🔮 Future Scope
+## 🔮 Future Scope
+
 - Incorporating EV adoption growth forecasts by city
+  
 - Adding real-time charger utilization and downtime data
+  
 - Including pricing and installation cost to estimate ROI
 
 ---
@@ -220,5 +223,6 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 ## ✅ Conclusion
 
 This project demonstrates how data analytics can identify real-world infrastructure gaps by combining supply, demand, and business logic. It showcases a complete analytics pipeline that turns raw data into actionable investment insights.
+
 
 
