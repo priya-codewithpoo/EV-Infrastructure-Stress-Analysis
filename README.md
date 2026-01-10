@@ -17,7 +17,7 @@ This project identifies high-opportunity cities using an end-to-end analytics pi
 
 ## 🧠 Project Overview
 
-This project simulates a real-world corporate analytics workflow, combining:
+This project follows a real-world analytics workflow used in business teams, combining:
 
 - Government infrastructure data (Supply)
 
@@ -210,7 +210,15 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 ---
 
+🔮 Future Scope
+- Incorporating EV adoption growth forecasts by city
+- Adding real-time charger utilization and downtime data
+- Including pricing and installation cost to estimate ROI
+
+---
+
 ## ✅ Conclusion
 
 This project demonstrates how data analytics can identify real-world infrastructure gaps by combining supply, demand, and business logic. It showcases a complete analytics pipeline that turns raw data into actionable investment insights.
+
 
