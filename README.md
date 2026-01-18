@@ -1,5 +1,4 @@
-# 🚗⚡ EV Infrastructure Stress Analysis (End-to-End Data Project)
-
+# 🚗⚡EV Infrastructure Stress Analysis | Python, SQL, Power BI, Excel
 ## 📸 Power BI Dashboard
 
 ![EV Infrastructure Dashboard](./Image/ev_infrastructure_analysis_dashboard.png)
@@ -17,7 +16,7 @@ This project identifies high-opportunity cities using an end-to-end analytics pi
 
 ## 🧠 Project Overview
 
-This project follows a real-world analytics workflow used in business teams, combining:
+This project simulates a real-world analytics workflow, combining:
 
 - Government infrastructure data (Supply)
 
@@ -25,10 +24,10 @@ This project follows a real-world analytics workflow used in business teams, com
 
 - Business-focused metrics (Stress Score)
 
-- Executive-ready dashboard (Power BI)
+- Interactive dashboard (Power BI)
 
 **Core Insight:** 
-Big batteries + slow chargers = infrastructure stress = investment opportunity
+Cities with high battery demand but limited charging infrastructure have the greatest investment opportunities
 
 ---
 
@@ -40,7 +39,7 @@ Big batteries + slow chargers = infrastructure stress = investment opportunity
 
 - **Python (Pandas, NumPy)** – Feature engineering & stress scoring
 
-- **Power BI** – Interactive executive dashboard
+- **Power BI** – Interactive dashboard
 
 ---
 
@@ -147,7 +146,7 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 - **Phase 4:** Power BI – Executive Dashboard
 
-**Goal:** Turn analysis into decisions
+**Goal:** Visualize insights through an interactive Power BI dashboard
 
 **Dashboard Features:**
 
@@ -207,22 +206,15 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 - DC fast charging gaps signal strong ROI opportunities
 
 - Infrastructure growth is not evenly distributed
-
----
-
-## 🔮 Future Scope
-
-- Incorporating EV adoption growth forecasts by city
   
-- Adding real-time charger utilization and downtime data
-  
-- Including pricing and installation cost to estimate ROI
+- Developed a Stress Score metric to prioritize cities for new EV fast-charging infrastructure
 
 ---
 
 ## ✅ Conclusion
 
-This project demonstrates how data analytics can identify real-world infrastructure gaps by combining supply, demand, and business logic. It showcases a complete analytics pipeline that turns raw data into actionable investment insights.
+This project demonstrates an end-to-end analytics workflow combining supply, demand, and business metrics to identify gaps in EV charging infrastructure. It turns raw data into actionable insights for investment planning. This project demonstrates practical skills in data cleaning, modeling, and visualization.
+
 
 
 
