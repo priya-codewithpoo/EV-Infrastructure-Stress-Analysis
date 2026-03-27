@@ -7,7 +7,7 @@
 
 ## 📌 Business Question
 
-**Which U.S. cities are most profitable for new EV fast-charging investments in 2026?**
+**Which U.S. cities have the highest EV charging demand-supply gap, and where should companies invest in fast-charging infrastructure for maximum ROI?**
 
 As electric vehicle battery sizes grow faster than charging infrastructure, some cities face high charging stress.
 This project identifies high-opportunity cities using an end-to-end analytics pipeline.
@@ -27,7 +27,7 @@ This project simulates a real-world analytics workflow, combining:
 - Interactive dashboard (Power BI)
 
 **Core Insight:** 
-Cities with high battery demand but limited charging infrastructure have the greatest investment opportunities
+Cities with high battery demand but limited fast-charging infrastructure represent the strongest investment opportunities due to unmet charging needs.
 
 ---
 
@@ -117,9 +117,9 @@ Cities with high battery demand but limited charging infrastructure have the gre
 
 - **Phase 3:** Python – Feature Engineering
 
-**Goal:**  Create a metric that doesn’t exist in raw data
+**Goal:**  reate a business metric to quantify infrastructure stress and identify high-opportunity investment zones.
 
-**Pipeline:** Implemented a direct PostgreSQL-to-Python pipeline using SQLAlchemy to automate real-time data retrieval
+**Pipeline:** Built a PostgreSQL-to-Python pipeline using SQLAlchemy to automate data retrieval and feature engineering.
 
 **🔑 Stress Score Formula:** 
 
@@ -128,9 +128,9 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 **Logic highlights:**
 
-- Cities with 0 DC fast chargers → Critical opportunity
-
-- Scores clipped to avoid outliers
+- Higher score → Higher demand, lower infrastructure supply
+- Cities with zero DC fast chargers identified as critical investment zones
+- Categorized cities into opportunity segments for business prioritization
 
 **Cities classified into:**
 
@@ -201,19 +201,19 @@ $$Stress\ Score = \frac{Average\ Battery\ Capacity\ (kWh)}{Total\ DC\ Fast\ Powe
 
 ## 📌 Key Business Insights
 
-- Several cities show high EV demand but weak fast-charging supply
+-Identified cities with high EV demand but insufficient fast-charging infrastructure, indicating strong investment potential
 
-- DC fast charging gaps signal strong ROI opportunities
-
-- Infrastructure growth is not evenly distributed
+- Discovered that DC fast charger availability is the primary bottleneck in high-demand regions
   
-- Developed a Stress Score metric to prioritize cities for new EV fast-charging infrastructure
+- Highlighted cities with zero fast-charging infrastructure as critical expansion opportunities
+  
+- Found that infrastructure growth is uneven across regions, leading to localized charging stress
 
 ---
 
 ## ✅ Conclusion
 
-This project demonstrates an end-to-end analytics workflow combining supply, demand, and business metrics to identify gaps in EV charging infrastructure. It turns raw data into actionable insights for investment planning. This project demonstrates practical skills in data cleaning, modeling, and visualization.
+This project demonstrates an end-to-end analytics workflow that transforms raw infrastructure and vehicle data into actionable investment insights. By introducing a custom Stress Score metric, it enables data-driven decision-making for EV infrastructure expansion and strategic planning.
 
 
 
